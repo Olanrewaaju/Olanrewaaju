@@ -21,3 +21,5 @@
 
 
 *Thanks for visiting my profile! Feel free to connect or collaborate.* ✨
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Olanrewaaju)
