@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olanrewaaju Here!!
 
-<!--
-**Olanrewaaju/Olanrewaaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a mostly a self-taught **Flutter Developer** and **UI/UX Designer** 
+🎨 I love designing clean and user-friendly mobile apps  
+🌱 Currently learning backend development with **Node.js**  
+⚡ Fun fact: I enjoy experimenting with color palettes and coffee ☕
 
-Here are some ideas to get you started:
+### 🧠 My Skills
+- **Flutter:** Dart, Provider, Riverpod, API Management  
+- **UI/UX Design:** Figma, Prototyping  
+- **Backend:** Node.js (Learning)  
+- **Programming Languages:** C++, C#  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📫 Connect with me
+- [Behance](https://www.behance.net/Olanrewaju-23)
+- [Twitter](https://x.com/OlanDesigner))
+
+
+*Thanks for visiting my profile! Feel free to connect or collaborate.* ✨
