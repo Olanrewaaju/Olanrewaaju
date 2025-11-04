@@ -8,7 +8,7 @@
 ### 🧠 My Skills
 - **Flutter:** Dart, Provider, Riverpod, API Management  
 - **UI/UX Design:** Figma, Prototyping  
-- **Backend:** Node.js (Learning)  
+- **Backend:** SQLite, Node.js (Learning)  
 - **Programming Languages:** C++, C#  
 - **Web Development:** HTML, CSS, JavaScript  
 - **Version Control:** Git & GitHub  
